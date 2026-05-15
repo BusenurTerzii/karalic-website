@@ -34,7 +34,7 @@ export default function KaralicHomepage() {
           <div className="flex items-center gap-4">
             <div className="relative">
               <img
-                src="/logo.Png"
+                src="/logo.PNG"
                 alt="KARALİÇ Logo"
                 className="w-16 h-16 object-contain drop-shadow-lg"
               />
